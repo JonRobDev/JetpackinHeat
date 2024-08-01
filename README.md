@@ -1,0 +1,1 @@
+Originally developed by me between the range of January 2020 and April 2020, launched on GameJolt (Windows 64-bit Standalone), Newgrounds (WebGL), and Android (Google Play Store - now removed), mostly uploaded for portfolio purposes
